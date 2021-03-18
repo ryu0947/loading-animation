@@ -11,6 +11,12 @@ ul,li {
     list-style: none;
 }
 
+img {
+    width: 100%;
+    border: none;
+    vertical-align: bottom;
+}
+
 button {
     background: none;
     border: none;
