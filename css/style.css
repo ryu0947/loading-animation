@@ -114,15 +114,12 @@ body {
 }
 
 .loading-hide {
-  animation: loadingAnime 1s forwards;
+  animation: loadingAnime 2s forwards;
 }
 
 @keyframes loadingAnime {
   0% {
     opacity: 1;
-  }
-  99% {
-    opacity: 0;
   }
   100% {
     opacity: 0;
